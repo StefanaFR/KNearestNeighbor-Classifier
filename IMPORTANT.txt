@@ -1,0 +1,6 @@
+Please be advised that the program will take over an hour to run for k = 3, 7 and 15 at the same time. 
+
+The program took around 20 minutes to do the classification for a single K (I tried k = 3 and k = 7 as well). 
+The PNG files  will show you the run time. Most of that time was taken to compute the Euclidean Distance and find the neighbors. 
+
+I could not figure out a better way to do this without using built-in functions. 
